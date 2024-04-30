@@ -131,7 +131,7 @@ main {
 }
 
 .button__back {
-  background: url("/img/svg/arrow-left-circle-light.svg") no-repeat;
+  background: url("img/svg/arrow-left-circle-light.svg") no-repeat;
   margin: 0;
   border: 0;
   scale: 2;
@@ -149,7 +149,7 @@ main {
 .button__back:focus,
 .button__back:hover {
   outline: none;
-  background: url("/img/svg/arrow-left-circle-fill-light.svg") no-repeat;
+  background: url("img/svg/arrow-left-circle-fill-light.svg") no-repeat;
 }
 
 .social {
