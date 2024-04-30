@@ -283,7 +283,7 @@ a {
 }
 
 .button__back {
-  background: url("img/svg/arrow-left-circle-dark.svg") no-repeat;
+  background: url("/img/svg/arrow-left-circle-dark.svg") no-repeat;
   margin: 0;
   border: 0;
   scale: 2;
@@ -300,7 +300,7 @@ a {
 .button__back:focus,
 .button__back:hover {
   outline: none;
-  background: url("img/svg/arrow-left-circle-fill-dark.svg") no-repeat;
+  background: url("/./img/svg/arrow-left-circle-fill-dark.svg") no-repeat;
 }
 
 .page__title {
